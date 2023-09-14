@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03cc63e6.css",
+    "main.js": "/static/js/main.2b1c0b9d.js",
+    "static/media/Copy of DSCF1672.jpg": "/static/media/Copy of DSCF1672.1e33f8cdcf94aee7ba28.jpg",
+    "static/media/Lip rescue video.mp4": "/static/media/Lip rescue video.16545b02b9e5d522f590.mp4",
+    "static/media/sun2.jpg": "/static/media/sun2.04b1eefb6304dc56ea09.jpg",
+    "static/media/almond2.jpg": "/static/media/almond2.5e937f3d3123bbfb3b0d.jpg",
+    "static/media/rose2.jpeg": "/static/media/rose2.19d6a52ffea1a48c3052.jpeg",
+    "static/media/shea2.webp": "/static/media/shea2.9570ef1b0f1b69fb839f.webp",
+    "static/media/Product A-3.jpg": "/static/media/Product A-3.80c7416f5a33a47a8944.jpg",
+    "static/media/coco.jpg": "/static/media/coco.21137a87ec522e3e2db4.jpg",
+    "static/media/rose.png": "/static/media/rose.e2be4e9db9b9a34df847.png",
+    "static/media/aloe2.jpg": "/static/media/aloe2.17cd812132d7c49d5dbb.jpg",
+    "static/media/almond.png": "/static/media/almond.9dd71278917bab2a258b.png",
+    "static/media/Product A-1.jpg": "/static/media/Product A-1.5934d7c17e7d959b620b.jpg",
+    "static/media/Product A-2.jpg": "/static/media/Product A-2.72a8bf68b508d6f33b81.jpg",
+    "static/media/shea.png": "/static/media/shea.1fd546c5c43b2b913506.png",
+    "static/media/coconut.png": "/static/media/coconut.b2e4fd458113b0b97a26.png",
+    "static/media/aloecera.png": "/static/media/aloecera.3c60b099fa1e0befc0f1.png",
+    "static/media/Bag icon.png": "/static/media/Bag icon.c0b9ed8adb84f6fca0c0.png",
+    "static/media/balm (1).png": "/static/media/balm (1).ce933ca3b7ec0720a837.png",
+    "static/media/mois.png": "/static/media/mois.42719b7767eb22bb2ad0.png",
+    "static/media/lip.png": "/static/media/lip.98a862f07744832acc3c.png",
+    "index.html": "/index.html",
+    "main.03cc63e6.css.map": "/static/css/main.03cc63e6.css.map",
+    "main.2b1c0b9d.js.map": "/static/js/main.2b1c0b9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03cc63e6.css",
+    "static/js/main.2b1c0b9d.js"
+  ]
+}
